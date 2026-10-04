@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
