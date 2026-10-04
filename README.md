@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0046-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0046-permutations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
