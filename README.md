@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0078-subsets) |
 ## Newton's Method
 |  |
 | ------- |
