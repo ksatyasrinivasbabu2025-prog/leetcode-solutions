@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## String
 |  |
 | ------- |
