@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -199,4 +201,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
