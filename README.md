@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 ## Manacher
 |  |
 | ------- |
@@ -146,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 ## Quicksort
 |  |
 | ------- |
@@ -322,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
