@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
