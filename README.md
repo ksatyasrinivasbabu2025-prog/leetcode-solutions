@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0066-plus-one) |
 ## Greedy
 |  |
 | ------- |
