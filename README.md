@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0135-candy) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |
