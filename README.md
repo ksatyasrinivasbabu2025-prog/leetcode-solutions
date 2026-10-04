@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
@@ -221,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
