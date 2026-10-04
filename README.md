@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0136-single-number) |
 ## Newton's Method
 |  |
 | ------- |
