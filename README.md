@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Greedy
 |  |
 | ------- |
