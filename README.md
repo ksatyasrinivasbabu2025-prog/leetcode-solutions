@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 ## Bit Manipulation
 |  |
 | ------- |
