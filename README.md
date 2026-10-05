@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0470-implement-rand10-using-rand7](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 ## Greedy
 |  |
 | ------- |
@@ -741,4 +742,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
