@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Newton's Method
 |  |
 | ------- |
