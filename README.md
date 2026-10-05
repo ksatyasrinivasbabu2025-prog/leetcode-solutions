@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0321-create-maximum-number) |
+| [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -511,11 +515,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Sweep Line
 |  |
 | ------- |
@@ -525,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -611,4 +618,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
