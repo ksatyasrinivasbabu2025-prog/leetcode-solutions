@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -515,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
