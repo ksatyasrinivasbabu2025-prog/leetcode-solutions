@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0319-bulb-switcher) |
 ## Greedy
 |  |
 | ------- |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
