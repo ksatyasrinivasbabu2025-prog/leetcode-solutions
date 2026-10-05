@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
