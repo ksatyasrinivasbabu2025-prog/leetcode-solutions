@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0228-summary-ranges) |
 ## Binary Search
 |  |
 | ------- |
