@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0461-hamming-distance) |
 ## Newton's Method
 |  |
 | ------- |
