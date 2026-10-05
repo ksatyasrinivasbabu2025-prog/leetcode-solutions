@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
