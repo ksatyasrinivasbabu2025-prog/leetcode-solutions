@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Manacher
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
