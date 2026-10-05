@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Backtracking
 |  |
 | ------- |
