@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
