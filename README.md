@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0258-add-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
