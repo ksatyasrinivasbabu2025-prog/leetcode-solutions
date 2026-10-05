@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Manacher
 |  |
 | ------- |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Newton's Method
 |  |
 | ------- |
