@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -533,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
