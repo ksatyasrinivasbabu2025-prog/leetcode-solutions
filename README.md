@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Manacher
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0376-wiggle-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Newton's Method
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Quicksort
 |  |
 | ------- |
