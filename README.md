@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -498,10 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sweep Line
 |  |
 | ------- |
@@ -510,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sliding Window
 |  |
 | ------- |
@@ -591,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0310-minimum-height-trees) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
