@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Newton's Method
 |  |
 | ------- |
