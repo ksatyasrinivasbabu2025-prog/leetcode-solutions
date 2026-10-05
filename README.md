@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -578,4 +580,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
