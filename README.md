@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Manacher
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
