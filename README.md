@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## Manacher
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -520,4 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
