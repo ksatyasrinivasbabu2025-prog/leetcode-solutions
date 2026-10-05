@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Newton's Method
 |  |
 | ------- |
