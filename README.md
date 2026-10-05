@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0376-wiggle-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0376-wiggle-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0321-create-maximum-number) |
+| [0376-wiggle-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 ## Hash Table
 |  |
 | ------- |
