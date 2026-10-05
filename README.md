@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
 |  |
 | ------- |
