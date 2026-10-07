@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Hash Table
 |  |
 | ------- |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Binary Lifting
 |  |
 | ------- |
