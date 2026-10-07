@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Binary Search
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Manacher
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Hash Table
 |  |
 | ------- |
