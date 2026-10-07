@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 ## Manacher
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0476-number-complement) |
+| [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 ## Quicksort
 |  |
 | ------- |
@@ -804,10 +809,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -896,4 +903,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
