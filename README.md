@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
