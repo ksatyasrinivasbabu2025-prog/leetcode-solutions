@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0598-range-addition-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0598-range-addition-ii) |
 ## Greedy
 |  |
 | ------- |
