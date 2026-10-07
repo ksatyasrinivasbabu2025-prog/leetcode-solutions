@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
+| [0661-image-smoother](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0661-image-smoother) |
 ## Binary Search
 |  |
 | ------- |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0661-image-smoother) |
 ## Monotonic Stack
 |  |
 | ------- |
