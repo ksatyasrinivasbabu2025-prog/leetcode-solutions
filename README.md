@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
