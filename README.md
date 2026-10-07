@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
