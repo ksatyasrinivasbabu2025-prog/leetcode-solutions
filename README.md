@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 ## Quickselect
 |  |
 | ------- |
