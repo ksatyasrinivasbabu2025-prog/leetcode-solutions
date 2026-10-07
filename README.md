@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Manacher
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
 | ------- |
@@ -857,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Prefix Sum
 |  |
 | ------- |
