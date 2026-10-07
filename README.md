@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
