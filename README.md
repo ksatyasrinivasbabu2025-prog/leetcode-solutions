@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0476-number-complement) |
 | [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Newton's Method
 |  |
 | ------- |
