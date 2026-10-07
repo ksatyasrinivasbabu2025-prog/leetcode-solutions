@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Trie
 |  |
 | ------- |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Graph Theory
 |  |
 | ------- |
