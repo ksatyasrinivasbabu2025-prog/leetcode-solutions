@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0657-robot-return-to-origin](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0657-robot-return-to-origin](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
