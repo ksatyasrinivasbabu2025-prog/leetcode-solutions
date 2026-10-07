@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
 | [0661-image-smoother](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |
