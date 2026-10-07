@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
+| [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
 ## Binary Search
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
 ## Stack
 |  |
 | ------- |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
 ## Binary Lifting
 |  |
 | ------- |
