@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
 | [0661-image-smoother](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
 | ------- |
