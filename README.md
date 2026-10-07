@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -375,11 +377,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0648-replace-words) |
 ## Sorting
 |  |
 | ------- |
