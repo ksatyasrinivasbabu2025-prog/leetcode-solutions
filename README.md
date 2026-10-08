@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0796-rotate-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
