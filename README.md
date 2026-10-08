@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0808-soup-servings) |
 | [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0829-consecutive-numbers-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
+| [0836-rectangle-overlap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 ## Greedy
 |  |
 | ------- |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 ## Polygons
 |  |
 | ------- |
