@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
