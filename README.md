@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0754-reach-a-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Greedy
 |  |
 | ------- |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Newton's Method
 |  |
 | ------- |
@@ -1007,4 +1009,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0638-shopping-offers) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
