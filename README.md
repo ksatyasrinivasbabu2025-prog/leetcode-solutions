@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+| [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Sweep Line
 |  |
 | ------- |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+| [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0707-design-linked-list) |
+| [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
