@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -1148,4 +1151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0858-mirror-reflection) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
