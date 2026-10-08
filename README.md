@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
