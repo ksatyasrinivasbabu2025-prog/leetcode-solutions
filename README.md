@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 ## Trie
 |  |
 | ------- |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
+| [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 ## Linked List
 |  |
 | ------- |
