@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Newton's Method
 |  |
 | ------- |
