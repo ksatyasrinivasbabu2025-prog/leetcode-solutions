@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
+| [0858-mirror-reflection](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0858-mirror-reflection) |
 ## Greedy
 |  |
 | ------- |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0858-mirror-reflection) |
 ## Interactive
 |  |
 | ------- |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0858-mirror-reflection) |
 ## Polygons
 |  |
 | ------- |
@@ -1094,4 +1097,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
