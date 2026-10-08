@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
 | [0858-mirror-reflection](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0866-prime-palindrome) |
+| [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 ## Greedy
 |  |
 | ------- |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0859-buddy-strings) |
+| [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 ## Trie
 |  |
 | ------- |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 ## Linked List
 |  |
 | ------- |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -1102,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
+| [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 ## Ternary Search
 |  |
 | ------- |
