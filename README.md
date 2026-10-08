@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0859-buddy-strings) |
 ## Trie
 |  |
 | ------- |
