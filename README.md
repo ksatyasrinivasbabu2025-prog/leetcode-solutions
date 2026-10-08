@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 | [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
