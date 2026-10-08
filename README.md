@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0748-shortest-completing-word) |
+| [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 ## Binary Search
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 ## Greedy
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 ## Hash Table
 |  |
 | ------- |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 ## Trie
 |  |
 | ------- |
