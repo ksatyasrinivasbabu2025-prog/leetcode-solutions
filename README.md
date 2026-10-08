@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0754-reach-a-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [0754-reach-a-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0754-reach-a-number) |
 ## Greedy
 |  |
 | ------- |
