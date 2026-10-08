@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 ## String
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
