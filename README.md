@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
 ## Manacher
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0829-consecutive-numbers-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
 ## Greedy
 |  |
 | ------- |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
 ## Design
 |  |
 | ------- |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
 ## 0-1 Knapsack
 |  |
 | ------- |
