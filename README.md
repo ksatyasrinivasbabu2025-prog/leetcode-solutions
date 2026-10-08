@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0868-binary-gap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0868-binary-gap) |
 ## Newton's Method
 |  |
 | ------- |
