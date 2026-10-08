@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0908-smallest-range-i) |
+| [0909-snakes-and-ladders](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Binary Search
 |  |
 | ------- |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0909-snakes-and-ladders](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0909-snakes-and-ladders](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Binary Search Tree
 |  |
 | ------- |
