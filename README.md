@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Trie
 |  |
 | ------- |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
