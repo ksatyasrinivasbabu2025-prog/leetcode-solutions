@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0908-smallest-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0908-smallest-range-i) |
 ## Greedy
 |  |
 | ------- |
