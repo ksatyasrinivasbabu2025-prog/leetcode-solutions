@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0754-reach-a-number) |
+| [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 ## String
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 ## Hash Table
 |  |
 | ------- |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 ## Linked List
 |  |
 | ------- |
