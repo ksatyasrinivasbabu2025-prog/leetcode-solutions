@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0895-maximum-frequency-stack](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Trie
 |  |
 | ------- |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Design
 |  |
 | ------- |
