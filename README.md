@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0808-soup-servings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0808-soup-servings) |
 ## Manacher
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0808-soup-servings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0808-soup-servings) |
 ## Greedy
 |  |
 | ------- |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0808-soup-servings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0808-soup-servings) |
 ## 0-1 Knapsack
 |  |
 | ------- |
