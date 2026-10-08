@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0808-soup-servings) |
 | [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0829-consecutive-numbers-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -1059,4 +1060,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
