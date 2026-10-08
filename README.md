@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 ## Binary Search
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0808-soup-servings) |
+| [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 ## Greedy
 |  |
 | ------- |
@@ -1036,4 +1038,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
