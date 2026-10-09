@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0991-broken-calculator) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
