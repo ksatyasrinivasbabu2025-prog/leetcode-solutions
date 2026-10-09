@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Manacher
 |  |
 | ------- |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0991-broken-calculator](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -1145,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
