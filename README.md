@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Binary Search
 |  |
 | ------- |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0868-binary-gap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Newton's Method
 |  |
 | ------- |
