@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1037-valid-boomerang](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Manacher
 |  |
 | ------- |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Trie
 |  |
 | ------- |
@@ -609,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Linked List
 |  |
 | ------- |
