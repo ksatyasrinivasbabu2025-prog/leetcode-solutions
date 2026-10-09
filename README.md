@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Trie
 |  |
 | ------- |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Brainteaser
 |  |
 | ------- |
