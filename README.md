@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [0991-broken-calculator](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0991-broken-calculator) |
 ## Greedy
 |  |
 | ------- |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0942-di-string-match](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0991-broken-calculator](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0991-broken-calculator) |
 ## Hash Table
 |  |
 | ------- |
