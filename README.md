@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [0997-find-the-town-judge](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Binary Search
 |  |
 | ------- |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Trie
 |  |
 | ------- |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0997-find-the-town-judge](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
