@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -1144,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Graph Theory
 |  |
 | ------- |
