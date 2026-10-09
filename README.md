@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Trie
 |  |
 | ------- |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0837-new-21-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Design
 |  |
 | ------- |
@@ -1090,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0848-shifting-letters) |
+| [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Graph Theory
 |  |
 | ------- |
