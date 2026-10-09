@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0991-broken-calculator](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0991-broken-calculator) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Brainteaser
 |  |
 | ------- |
