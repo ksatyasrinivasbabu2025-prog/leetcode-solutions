@@ -1006,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -1193,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Radix Sort
 |  |
 | ------- |
