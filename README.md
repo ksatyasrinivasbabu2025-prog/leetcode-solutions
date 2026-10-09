@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0946-validate-stack-sequences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
