@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1037-valid-boomerang](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1037-valid-boomerang) |
 ## Binary Search
 |  |
 | ------- |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1033-moving-stones-until-consecutive) |
+| [1037-valid-boomerang](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1037-valid-boomerang) |
 ## Greedy
 |  |
 | ------- |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [1037-valid-boomerang](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1037-valid-boomerang) |
 ## Polygons
 |  |
 | ------- |
