@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0868-binary-gap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Newton's Method
 |  |
 | ------- |
