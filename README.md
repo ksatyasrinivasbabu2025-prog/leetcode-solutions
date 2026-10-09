@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 ## Binary Search
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 ## Trie
 |  |
 | ------- |
