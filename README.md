@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1033-moving-stones-until-consecutive) |
 ## Greedy
 |  |
 | ------- |
@@ -1135,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1033-moving-stones-until-consecutive) |
 ## Minimax
 |  |
 | ------- |
