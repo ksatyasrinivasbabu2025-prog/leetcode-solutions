@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Binary Search
 |  |
 | ------- |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Trie
 |  |
 | ------- |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
