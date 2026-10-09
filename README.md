@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0909-snakes-and-ladders](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0999-available-captures-for-rook](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [1020-number-of-enclaves](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0909-snakes-and-ladders](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0965-univalued-binary-tree](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -951,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1020-number-of-enclaves](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Brute-Force Search
 |  |
 | ------- |
