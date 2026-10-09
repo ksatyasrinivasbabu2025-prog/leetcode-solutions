@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
