@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Trie
 |  |
 | ------- |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0729-my-calendar-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0729-my-calendar-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sweep Line
 |  |
 | ------- |
