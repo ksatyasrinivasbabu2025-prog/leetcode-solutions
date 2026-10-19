@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1037-valid-boomerang](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
