@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [2409-count-days-spent-together](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1033-moving-stones-until-consecutive) |
 | [1037-valid-boomerang](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [2409-count-days-spent-together](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Greedy
 |  |
 | ------- |
