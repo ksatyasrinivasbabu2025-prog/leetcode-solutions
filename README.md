@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0470-implement-rand10-using-rand7](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
