@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0611-valid-triangle-number) |
