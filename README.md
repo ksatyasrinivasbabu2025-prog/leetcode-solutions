@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-moving-stones-until-consecutive](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1033-moving-stones-until-consecutive) |
 | [1037-valid-boomerang](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [2409-count-days-spent-together](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0999-available-captures-for-rook](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [3360-stone-removal-game](https://github.com/ksatyasrinivasbabu2025-prog/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
